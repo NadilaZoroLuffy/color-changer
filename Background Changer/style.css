@@ -1,0 +1,17 @@
+.box{
+    width: 50%;
+    background-color: rgb(58, 84, 107);
+    padding: 10px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%) rotateZ(2deg);
+}
+.box h1{
+    margin: 20px 0;
+    color: #fff;
+}
+.box div{
+    text-align: center;
+    margin: 20px 0;
+}
